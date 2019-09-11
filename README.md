@@ -1,4 +1,4 @@
-# Advanced Driver Assistence Systems
+# Advanced Driver Assistance Systems
 
 
 ## simulink-auto-braking
